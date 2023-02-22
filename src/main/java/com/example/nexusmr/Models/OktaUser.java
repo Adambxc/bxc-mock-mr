@@ -1,10 +1,10 @@
-package Models;
+package com.example.nexusmr.Models;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class User {
+public class OktaUser {
 
   @JsonProperty("id")
   public String id;

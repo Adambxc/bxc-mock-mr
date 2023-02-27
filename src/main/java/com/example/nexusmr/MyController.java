@@ -25,7 +25,7 @@ import java.util.stream.Collectors;
 /**
  * Requirements
  *
- * An endpoint that can page though okta users and updating the users email, status, and groups to a
+ * An endpoint that can page though okta users, writing/updating the users email, status, and groups to a
  * database.
  */
 
